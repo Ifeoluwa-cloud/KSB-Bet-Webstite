@@ -11,7 +11,6 @@ import US from '../assets/US.svg';
 
 const classNameFunc = ({ isActive }) => (isActive ? "active_link" : "" );
 
-
 const Navbar = () => {
   return (
     <div className='w-full h-[140px] bg-[#1A1A1A] border-b '>
