@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Navbar.css'; 
 import logo from '../assets/logo.svg';
-import Basketball from '../assets/BasketBall.svg';
+import Basketball from '../assets/Basketball.svg';
 import SoccerBall from '../assets/SoccerBall.svg';
 import TennisBall from '../assets/TennisBall.svg';
 import CaretDown from '../assets/CaretDown.svg';
