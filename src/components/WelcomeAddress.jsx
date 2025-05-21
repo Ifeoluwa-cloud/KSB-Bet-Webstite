@@ -7,7 +7,7 @@ const WelcomeAddress = () => {
       <div className='py-4'>
       <img src={logo} className='h-12 w-12'/>
       </div>
-      <div className='text-md text-justify pb-4'>
+      <div className='text-sm sm:text-base md:text-lg text-justify pb-4'>
             <p className='mb-4'>
                 Welcome to KSB - a membership-based sports prediction website 
                 where you can access accurate and detailed predictions for your 
