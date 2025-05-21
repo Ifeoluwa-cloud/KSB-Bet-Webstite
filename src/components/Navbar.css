@@ -1,0 +1,7 @@
+.active_link { 
+    font-weight: bold;
+    color: #EAB308; /* Text color */
+    border-bottom: 1px solid #EAB308;
+    padding-bottom: 2px;
+    transition: ease-out .2s;
+  }
